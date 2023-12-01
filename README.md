@@ -10,4 +10,6 @@ If you own a WCA account, you can visit the [statistics.worldcubeassociation.org
 - Copy and paste the code from the desired query
 - Voila! Watanays
 
+![Screenshot 2023-12-01 165943](https://github.com/trixtao/AnnualPCAAward/assets/139524366/04996052-8034-452c-a907-bab2b66df8aa)
+
 [^1]: Thank you [sir Yuji Yoshida!](https://www.worldcubeassociation.org/persons/2015YOSH01)!
