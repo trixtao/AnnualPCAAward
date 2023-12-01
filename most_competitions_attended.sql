@@ -1,12 +1,15 @@
 SELECT 
-	personId as WCAID,
-	personName as Name, 
-	COUNT(DISTINCT competitionId) as CompetitionsAttended
+    r.personId, 
+    r.personName AS name,
+    COUNT(DISTINCT r.competitionId) AS comps
 FROM 
-	Results
+    Results r
+JOIN 
+    Competitions c ON r.competitionId = c.id
 WHERE 
-	countryId = 'Philippines'
+    r.countryId = 'Philippines'
+    AND c.end_date LIKE ':year%'
 GROUP BY 
-	personId
+    r.personId
 ORDER BY 
-	CompetitionsAttended DESC
+    comps DESC;
