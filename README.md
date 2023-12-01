@@ -10,6 +10,4 @@ If you own a WCA account, you can visit the [statistics.worldcubeassociation.org
 - Copy and paste the code from the desired query
 - Voila! Watanays
 
-
-[^1]: [Our very handsome delegate in action](https://www.youtube.com/watch?v=2X8gqTChz0Q)
-[^2]: Thank you [sir Yuji Yoshida!](https://www.worldcubeassociation.org/persons/2015YOSH01)!
+[^1]: Thank you [sir Yuji Yoshida!](https://www.worldcubeassociation.org/persons/2015YOSH01)!
